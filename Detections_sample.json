@@ -1,0 +1,26 @@
+{
+    "children": [
+        {
+            "identity": "cyclist",
+            "maxcol": 239,
+            "maxrow": 632,
+            "mincol": 149,
+            "minrow": 445,
+            "score": 143.3860626220703,
+            "tags": [],
+            "trackid": "None"
+        },
+        {
+            "identity": "cyclist",
+            "maxcol": 890,
+            "maxrow": 554,
+            "mincol": 837,
+            "minrow": 443,
+            "score": 10.890358924865723,
+            "tags": [],
+            "trackid": "None"
+        }
+    ],
+    "imgname": "tsinghuaDaimlerDataset_2014-12-04_082614_000027014_leftImg8bit.png",
+    "tags": []
+}

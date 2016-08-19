@@ -1,0 +1,61 @@
+{
+  "@converter": "LabelTool",
+  "tags": [],
+  "@source": "",
+  "imagename": "tsinghuaDaimlerDataset_2014-12-04_082614_000027014_leftImg8bit.png",
+  "@date": "Mon Aug 01 11:01:24 2016",
+  "@version": 3,
+  "children": [
+    {
+      "maxcol": 245,
+      "tags": [],
+      "trackid": "cyclist_400011",
+      "mincol": 154,
+      "minrow": 439,
+      "maxrow": 632,
+      "uniqueid": 402750,
+      "type": "rect",
+      "children": [],
+      "identity": "cyclist"
+    },
+    {
+      "maxcol": 1297,
+      "tags": [
+        "occluded>40"
+      ],
+      "trackid": "mopedrider_400007",
+      "mincol": 1252,
+      "minrow": 460,
+      "maxrow": 559,
+      "uniqueid": 402751,
+      "type": "rect",
+      "children": [],
+      "identity": "mopedrider"
+    },
+    {
+      "maxcol": 1524,
+      "tags": [],
+      "trackid": "pedestrian_400028",
+      "mincol": 1510,
+      "minrow": 490,
+      "maxrow": 526,
+      "uniqueid": 402752,
+      "type": "rect",
+      "children": [],
+      "identity": "pedestrian"
+    },
+    {
+      "maxcol": 1577,
+      "tags": [],
+      "trackid": "cyclist_400012",
+      "mincol": 1560,
+      "minrow": 492,
+      "maxrow": 532,
+      "uniqueid": 402753,
+      "type": "rect",
+      "children": [],
+      "identity": "cyclist"
+    }
+  ],
+  "identity": "entitylist"
+}
