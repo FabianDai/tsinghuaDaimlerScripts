@@ -50,8 +50,8 @@ tdcb_leftImg8bit_valid_url = ("http://www.gavrila.net/data/Daimler/iv16-li-flohr
 tdcb_leftImg8bit_nonvru_url = ("http://www.gavrila.net/data/Daimler/iv16-li-flohr-gavrila-etal/tdcb_leftImg8bit_NonVRU.tar.gz", "64d76ee7c65f5ae7f8bb0b790e1984ec")
 
 tdcb_disparity_train_url = ("http://www.gavrila.net/data/Daimler/iv16-li-flohr-gavrila-etal/tdcb_disparity_train.tar.gz", "2f4b2cd11d5066b6751a6b112d2a7405")
-tdcb_disparity_test_url = ("http://www.gavrila.net/data/Daimler/iv16-li-flohr-gavrila-etal/tdcb_disparity_test.tar.gz", "d72375f453c83bce522edf78cfab9aa6")
-tdcb_disparity_valid_url = ("http://www.gavrila.net/data/Daimler/iv16-li-flohr-gavrila-etal/tdcb_disparity_valid.tar.gz", "6366b94297a0efd2e1e1ab177a14f1fd")
+tdcb_disparity_test_url = ("http://www.gavrila.net/data/Daimler/iv16-li-flohr-gavrila-etal/tdcb_disparity_test.tar.gz", "dd2287ca3cb436f608e687964f8bd9bd")
+tdcb_disparity_valid_url = ("http://www.gavrila.net/data/Daimler/iv16-li-flohr-gavrila-etal/tdcb_disparity_valid.tar.gz", "1559214363702eebf198563489c0d161")
 tdcb_disparity_nonvru_url = ("http://www.gavrila.net/data/Daimler/iv16-li-flohr-gavrila-etal/tdcb_disparity_NonVRU.tar.gz", "b063cfd2670ca522d172b24e993c1e61")
 
 
