@@ -10,9 +10,9 @@ Contact
 Please feel free to contact us with any questions, suggestions or
 comments:
 
-Fabian Flohr (Daimler AG, Dep. of Environment Perception)
+Daimler AG, Dep. of Environment Perception
 
-Email: \[tdcb at fabian-flohr.de\]
+Email: \[f.b.flohr@tudelft.nl\]
 
 Citation
 --------
